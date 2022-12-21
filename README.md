@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Mark at creativemark.org
-- 👀 I’m interested in creating and offering modern web-apps and custom templates for clients.
-- 📫 You can reach me at admin@creativemark.org
+- 👋 Welcome to Creative Mark code repository.
+- 📫 admin@creativemark.org
